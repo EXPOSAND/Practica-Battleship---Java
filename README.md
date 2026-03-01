@@ -1,15 +1,15 @@
 Battleship – Práctica en Java
 
-Descripción
+##Descripción##
 
 Este proyecto es una implementación del clásico juego Battleship (Hundir la flota) desarrollada en Java como práctica de programación.
 El objetivo del juego es localizar y destruir todos los barcos del oponente antes de que él destruya los tuyos. El programa gestiona el tablero, los disparos y el estado de los barcos.
 
-Instalación
+##Instalación##
 
 Clona este repositorio:
 
-git clone https://github.com/usuario/battleship-java.git
+git clone https://github.com/exposand/Practica-Battleship-java.git
 
 Accede a la carpeta del proyecto:
 
@@ -27,7 +27,7 @@ java Main
 El juego se ejecutará en consola.
 Sigue las instrucciones que aparecen en pantalla para introducir las coordenadas de disparo y continuar la partida.
 
-Contribución
+##Contribución##
 
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto:
 
@@ -41,6 +41,6 @@ Realiza tus cambios y haz commit.
 
 Envía un pull request.
 
-Licencia
+##Licencia##
 
 Este proyecto se distribuye bajo la licencia MIT, lo que permite su uso, modificación y distribución libre.
